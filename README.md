@@ -2,6 +2,25 @@
 
 [Live Demo](https://vue-simple-shop.pages.dev) - hosted on Cloudflare Pages
 
+## Development
+
+```sh
+# Clone this repo
+$ git clone https://github.com/aldy505/vue-simple-shop.git
+
+# cd into directory
+$ cd vue-simple-shop
+
+# Install dependencies
+$ npm install
+
+# Run development server
+$ npm run dev
+
+# Build for production
+$ npm run build
+```
+
 ## License
 
 ```

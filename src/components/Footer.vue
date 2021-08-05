@@ -5,7 +5,7 @@
       License.
     </p>
     <p>
-      Source code available on <a href="https://github.com/aldy505/vue-simple.shop" class="hover:underline">Github</a>.
+      Source code available on <a href="https://github.com/aldy505/vue-simple-shop" class="hover:underline">Github</a>.
     </p>
   </div>
 </template>
