@@ -1,0 +1,52 @@
+{
+  "inventory": [
+    {
+      "id": 1,
+      "name": "Rich Emirates kid",
+      "price": 159,
+      "image": "images/alireza-esmaeeli-TNM4hr4MLN0-unsplash.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jank white boy",
+      "price": 99,
+      "image": "images/elias-jonassonn-p_DkxCwm-Xw-unsplash.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Goth babe",
+      "price": 99,
+      "image": "images/ilya-mirnyy-wk_PY_gsEB8-unsplash.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Rumfallo",
+      "price": 99,
+      "image": "images/kayla-koss-YwKQwT1qtYw-unsplash.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Trying to be Florence Pugh",
+      "price": 129,
+      "image": "images/korie-cull-gbkJWo4U8ks-unsplash.jpg"
+    },
+    {
+      "id": 6,
+      "name": "I got an investor",
+      "price": 199,
+      "image": "images/mahdi-bafande-HOTWXfbII6k-unsplash.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Here's to my ex",
+      "price": 129,
+      "image": "images/mohamadreza-khashai-KOKpUKPTDdg-unsplash.jpg"
+    },
+    {
+      "id": 8,
+      "name": "I don't care",
+      "price": 99,
+      "image": "images/the-graphic-space-FTrGeAy0RW4-unsplash.jpg"
+    }
+  ]
+}
